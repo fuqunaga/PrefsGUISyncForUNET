@@ -3,6 +3,9 @@ PrefsGUI subset for synchronization over the network
 
 ![SyncOverUNET](Documentation~/SyncOverUNET.gif)
 
+:warning: [UNet is depreciated by Unity](https://support.unity.com/hc/en-us/articles/360001252086-UNet-Deprecation-FAQ).  
+if you use [Mirror](https://github.com/vis2k/Mirror) instead, please see [PrefsGUISyncForMirror](https://github.com/fuqunaga/PrefsGUISyncForMirror)
+
 
 # Install
 
